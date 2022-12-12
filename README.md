@@ -11,20 +11,20 @@ A 24yo french junior web developer 😃
 # My skills
 
 ## Backend
-![nodejs](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/nodejs.png)
-![express](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/express.png)
-![php](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/php.png)
-![mongodb](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/mongodb.png)
-![mysql](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/mysql.png)
+![nodejs](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/nodejs.png)
+![express](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/express.png)
+![php](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/php.png)
+![mongodb](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/mongodb.png)
+![mysql](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/mysql.png)
 
 ## Frontend
-![html5](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/html5.png)
-![css3](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/css3.png)
-![javascript](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/javascript.png)
-![react](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/react.png)
+![html5](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/html5.png)
+![css3](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/css3.png)
+![javascript](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/javascript.png)
+![react](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/react.png)
 
 ## Design
-![photoshop](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/photoshop.png)
-![illustrator](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/illustrator.png)
-![aftereffects](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/aftereffects.png)
-![canva](https://raw.githubusercontent.com/DotShark/DotShark/main/icons/canva.png)
+![photoshop](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/photoshop.png)
+![illustrator](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/illustrator.png)
+![aftereffects](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/aftereffects.png)
+![canva](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/canva.png)

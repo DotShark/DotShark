@@ -10,20 +10,20 @@ A 24yo french junior web developer 😃
 
 # My skills
 
-## Backend
+### Backend
 ![nodejs](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/nodejs.png)
 ![express](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/express.png)
 ![php](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/php.png)
 ![mongodb](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/mongodb.png)
 ![mysql](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/mysql.png)
 
-## Frontend
+### Frontend
 ![html5](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/html5.png)
 ![css3](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/css3.png)
 ![javascript](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/javascript.png)
 ![react](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/react.png)
 
-## Design
+### Design
 ![photoshop](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/photoshop.png)
 ![illustrator](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/illustrator.png)
 ![aftereffects](https://raw.githubusercontent.com/DotShark/DotShark/main/icons50/aftereffects.png)

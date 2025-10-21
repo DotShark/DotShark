@@ -1,5 +1,5 @@
 # Hello, I'm Arnaud Petit!
-A 25yo french full-stack developer ☕
+A 27yo french full-stack developer ☕
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dotshark.ovh/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-petit-dev/)
